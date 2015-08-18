@@ -1,0 +1,29 @@
+[
+  {
+    "id":1,
+    "name": "Lynn Johnson",
+    "address": "1505 Park Avenue",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10012",
+    "phone": "212-555-2525"
+  },
+  {
+    "id":1,
+    "name": "Mike Smith",
+    "address": "875 2nd Avenue",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10012",
+    "phone": "212-555-2578"
+  },
+  {
+    "id":1,
+    "name": "Teresa Jones",
+    "address": "999 5th Street",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "zip": "07112",
+    "phone": "732-125-2525"
+  }
+  ]
